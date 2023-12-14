@@ -1,2 +1,2 @@
-# İlk Web Sayfam 1
-Kodluyoruz Eğitimi kapsamında açtığım ilk web sayfası - ödev 2
+# My First Page
+In this project, I created a page describing myself by adding links and images with HTML.
